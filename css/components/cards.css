@@ -1,0 +1,27 @@
+.cards {
+  height: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
+
+.cards .card-apply {
+  align-items: center;
+  border: 1px solid #999999;
+  box-shadow: 2px 4px 10px #999999;
+  height: 200px;
+  padding: 20px;
+}
+
+.cards .card-apply h4 {
+  align-self: center;
+
+}
+
+.cards .card-apply img {
+  width: 100px;
+  align-self: center;
+
+}
+
